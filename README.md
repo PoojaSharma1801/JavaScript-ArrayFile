@@ -1,3 +1,6 @@
+![Output Screenshot](./OutputArray.png)
+
+
 # 📊 JavaScript Array Utility – `first()` Function
 
 This project demonstrates a JavaScript utility function named `first()` that returns the first element(s) of an array.
